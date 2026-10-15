@@ -1,0 +1,44 @@
+[
+  {
+    "title": "GL Dining Website Redesign",
+    "category": "Web",
+    "description": "Group redesign of the website for GL Dining, a two-location Norman, OK restaurant group, for my Web Management course. Focused on clearer navigation, mobile-friendly layouts, and consistent branding.",
+    "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    "details": "Team project for MIS 4013 with four teammates. Responsibilities were split by role under a shared team contract. Replace this text with your specific contributions and a link to the live site or repository."
+  },
+  {
+    "title": "chat.bnb",
+    "category": "Programming",
+    "description": "A desktop chatbot that answers questions about the NYC Airbnb Open Data set using natural language processing.",
+    "technologies": ["Python", "tkinter", "ttkbootstrap", "NLTK"],
+    "details": "Group project for MIT 5032. I led much of the development: designing the application architecture, resolving import and NLTK resource issues, and implementing chat logging. I also built the presentation and code walkthrough."
+  },
+  {
+    "title": "MySQL & MongoDB Database Portfolio",
+    "category": "Data",
+    "description": "Coursework exploring relational and document databases, including stored procedures, transactions, and MongoDB aggregation pipelines.",
+    "technologies": ["MySQL", "MongoDB", "Python", "SQL"],
+    "details": "Worked with the Sakila sample database in MySQL (stored procedures, cursors, functions, transactions with SAVEPOINTs) and MongoDB Atlas sample datasets (aggregation pipelines, JSON and geospatial queries, triggers)."
+  },
+  {
+    "title": "Riverside Family Medicine EMR Plan",
+    "category": "Business",
+    "description": "A full project management plan for selecting and implementing an electronic medical record system for a family medicine clinic.",
+    "technologies": ["Project Management", "WBS", "Risk Planning", "Procurement"],
+    "details": "Individual project for MIS 4433. Deliverables include the project charter, scope and work breakdown structure, and cost, risk, procurement, HR, communications, and quality plans, with Elation Health as the recommended system."
+  },
+  {
+    "title": "Navi Startup Pitch",
+    "category": "Business",
+    "description": "A startup pitch for Navi, a SaaS platform delivering weather intelligence to drone operators in energy and industrial inspection.",
+    "technologies": ["Business Modeling", "SaaS", "Presentation Design"],
+    "details": "Developed with co-founders. Includes a business model diagram, revenue models, a SaaS dashboard mockup, and a go-to-market path from independent pilots to enterprise clients."
+  },
+  {
+    "title": "Romeo and Juliet Text Analysis",
+    "category": "Data",
+    "description": "A Python assignment applying natural language processing to analyze word usage and patterns in Shakespeare's text.",
+    "technologies": ["Python", "NLTK"],
+    "details": "Used NLTK to tokenize and analyze the text. Replace this with specific findings, charts, or a link to the notebook."
+  }
+]
